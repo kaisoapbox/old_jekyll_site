@@ -4,7 +4,7 @@ title: about
 permalink: /about/
 ---
 
-<img src="/assets/kai_picrew.jpg" width="250" height="250">
+<img src="/assets/images/kai_picrew.jpg" width="250" height="250">
 
 Hello there! I'm Kai, from and currently living in 🇸🇬, aspiring renaissance man. Former microbiologist, barely not a naval officer, presently data scientist, and always a massive nerd. I can't keep my mouth shut, and have taken to posting on [Twitter][twitter] instead of keeping it to myself. So enjoy, hehe :3
 
