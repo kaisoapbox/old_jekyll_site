@@ -2,6 +2,7 @@
 layout: page
 title: breakout
 permalink: /breakout/
+description: a simple breakout game created to learn javascript 
 ---
 
 I'm following along with [this tutorial on coding Breakout in

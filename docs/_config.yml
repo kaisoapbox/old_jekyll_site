@@ -34,6 +34,11 @@ theme: minima
 plugins:
   - jekyll-feed
 
+# handle collections
+collections:
+  projects:
+    output: true
+
 utterances:
   repo: "kaisoapbox/kaisoapbox.github.io"
   issue-term: "pathname"
