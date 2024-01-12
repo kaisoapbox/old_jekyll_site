@@ -28,6 +28,7 @@ Currently I'm working on:
 
 - My [offline voice journal powered by OpenAI's Whisper model](https://kaisoapbox.github.io/local_whisper/)
 - A personal finance board game, which I may make a digital prototype of soon. I like to describe my design goal as a game which is "accidentally educational".
+- Hosting [atelier](https://atelier.ac) on Sundays at noon in UBC, a community of cool, friendly, and encouraging people who gather weekly to work on cool stuff together. You should come by if you're in Vancouver, it's a lot of fun and the community is absolutely wonderful. Also [follow atelier on twitter](https://twitter.com/atelier_ubc) or [instagram pls](https://instagram.com/atelier.ubc).
 
 Current future projects/plans:
 
