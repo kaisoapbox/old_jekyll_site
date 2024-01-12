@@ -19,6 +19,7 @@ I instead want to make a thing that is actually useful and not just Gboard but w
 an offline voice journal using Whisper for all local speech transcription. As before, [open source](https://github.com/kaizoco/WhisperJournal), and yes I am aware the repository is still the one which is shared with my ex. I'll move it at some point soon. Whoopsies.
 
 Also on the Play Store. Not on the App Store yet, but when I get around to throwing money at Apple, I'll do it.
+
 <a href="https://play.google.com/store/apps/details?id=com.kaizoco.whisperjournal">
 <img src="https://cdn.rawgit.com/steverichey/google-play-badge-svg/master/img/en_get.svg" width="25%">
 </a>
