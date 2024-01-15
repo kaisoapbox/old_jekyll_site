@@ -1,8 +1,8 @@
 ---
+hide: true
+title: Privacy Policy
 permalink: /privacy.html
 ---
-
-## Privacy Policy
 
 The app accesses, collects, uses, and shares no personal and sensitive user data at all. It never has, and it never will, not even telemetry. There are some logging features, but those only store data locally, and only you have control over exporting those logs (for the purposes of reporting bugs). If you don't believe me, you can inspect the code yourself, it's open source!
 
