@@ -2,8 +2,10 @@
 permalink: /privacy.html
 ---
 
-The app tracks zero user data, never have, never will, not even telemetry. There's maybe some logging features, but those only store anything locally and you have full control over exporting those logs (presumably for bug reports). If you don't believe me, you can inspect the code yourself, it's open source!
+# Privacy Policy
 
-If you would like to appreciate this flagrant disregard of the tracking technologies of the modern era, you should contact Kai, whose contact information is available on the About page.
+The app accesses, collects, uses, and shares no personal and sensitive user data at all. It never has, and it never will, not even telemetry. There are some logging features, but those only store data locally, and only you have control over exporting those logs (for the purposes of reporting bugs). If you don't believe me, you can inspect the code yourself, it's open source!
 
-Last updated: Jan 11, 2024
+For questions regarding data privacy, contact the developer Kai, whose contact information is available on the About page.
+
+Last updated: Jan 15, 2024
