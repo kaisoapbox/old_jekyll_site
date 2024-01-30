@@ -286,7 +286,7 @@
   {
     "question": "My peers would probably say that having someone criticize my performance (i.e. point out a mistake) bothers me:",
     "options": [
-      {"description": "Much less  than most", "weight": 8},
+      {"description": "Much less than most", "weight": 8},
       {"description": "Somewhat less than most", "weight": 4},
       {"description": "About the same than most", "weight": 8},
       {"description": "Somewhat more than most", "weight": 0},

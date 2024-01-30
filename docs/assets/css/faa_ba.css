@@ -1,16 +1,9 @@
-#container {
+#options-container {
   display: flex;
-  flex-wrap: wrap;
-  flex-direction: column;
+  flex-direction: row;
+  gap: 10px;
 }
 
-wired-button.wired-rendered {
-  flex: 0 0 100%;
-  justify-self: stretch;
-  align-self: stretch;
-  width: 100%;
-  /* flex-grow: 1; */
-}
-wired-button.wired-rendered.button {
-  width: 100%;
+#points {
+  margin-bottom: 0px;
 }
