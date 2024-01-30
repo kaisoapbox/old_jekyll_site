@@ -175,6 +175,11 @@ window.onload = async function () {
         null,
         React.createElement("h1", null, "Menu"),
         React.createElement(
+          "p",
+          null,
+          "Find out whether you have what it takes to become an FAA Air Traffic Controller!"
+        ),
+        React.createElement(
           "wired-button",
           {
             onClick: () => {
