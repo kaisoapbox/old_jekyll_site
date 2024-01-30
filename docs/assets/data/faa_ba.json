@@ -22,7 +22,115 @@
     "weight": 0
   },
   {
-    "question": "Q15 The high school subject in which I received my lowest grades was:",
+    "question": "What has been the major cause of your failures?",
+    "options": [
+      {"description": "Lack of ability", "weight": 0},
+      {"description": "Not trying hard enough", "weight": 0},
+      {"description": "Goals that are too difficult", "weight": 0},
+      {"description": "Bad luck", "weight": 0},
+      {"description": "Some other cause", "weight": 0}
+    ],
+    "weight": 0
+  },
+  {
+    "question": "Which of the following statements do you agree with the MOST?",
+    "options": [
+      {"description": "It takes a lot of luck to be an outstanding employee on most jobs.", "weight": 0},
+      {"description": "You need connections to important people to be an outstanding employee on most jobs.", "weight": 0},
+      {"description": "It takes time to be an outstanding employee on most jobs.", "weight": 0},
+      {"description": "You need specific skills and abilities to be an outstanding employee on most jobs.", "weight": 0},
+      {"description": "It takes hard work and persistence to be an outstanding employee on most jobs.", "weight": 0}
+    ],
+    "weight": 0
+  },
+  {
+    "question": "People who know me would say that when things go wrong, I",
+    "options": [
+      {"description": "have an extreme amount of tolerance.", "weight": 0},
+      {"description": "get frustrated only when things go very wrong.", "weight": 0},
+      {"description": "would benefit if I got frustrated less often.", "weight": 0},
+      {"description": "have a good balance between getting too frustrated or staying too calm.", "weight": 0},
+      {"description": "have no tolerance for mistakes.", "weight": 0}
+    ],
+    "weight": 0
+  },
+  {
+    "question": "Which of the following is your greatest strength?",
+    "options": [
+      {"description": "Ability to follow instructions", "weight": 0},
+      {"description": "Work ethic", "weight": 0},
+      {"description": "Practical knowledge and work experience", "weight": 0},
+      {"description": "High quality standards", "weight": 0},
+      {"description": "Ability to work well with others", "weight": 0}
+    ],
+    "weight": 0
+  },
+  {
+    "question": "I am more",
+    "options": [
+      {"description": "eager", "weight": 0},
+      {"description": "considerate", "weight": 0}
+    ],
+    "weight": 0
+  },
+  {
+    "question": "More classmates would remember me as",
+    "options": [
+      {"description": "humble", "weight": 0},
+      {"description": "dominant", "weight": 0}
+    ],
+    "weight": 0
+  },
+  {
+    "question": "Others would be most likely to describe me as a person with great",
+    "options": [
+      {"description": "drive", "weight": 0},
+      {"description": "persistence", "weight": 0}
+    ],
+    "weight": 0
+  },
+  {
+    "question": "When it comes to getting work done, I am",
+    "options": [
+      {"description": "fast", "weight": 0},
+      {"description": "accurate", "weight": 0}
+    ],
+    "weight": 0
+  },
+  {
+    "question": "I would rather be known as a person who is",
+    "options": [
+      {"description": "thorough", "weight": 0},
+      {"description": "considerate", "weight": 0}
+    ],
+    "weight": 0
+  },
+  {
+    "question": "I would rather be known for my",
+    "options": [
+      {"description": "pleasing personality", "weight": 0},
+      {"description": "inquiring mind", "weight": 0}
+    ],
+    "weight": 0
+  },
+  {
+    "question": "I often start things I do not finish.",
+    "options": [
+      {"description": "True", "weight": 0},
+      {"description": "False", "weight": 0}
+    ],
+    "weight": 0
+  },
+  {
+    "question": "I would rather be known as a person who is very",
+    "options": [
+      {"description": "determined", "weight": 0},
+      {"description": "respectful", "weight": 0}
+    ],
+    "weight": 0
+  },
+  {
+    "question": "The high school subject in which I received my lowest grades was:",
     "options": [
       {"description": "Science", "weight": 15},
       {"description": "Math", "weight": 0},
@@ -33,13 +141,512 @@
     "weight": 1
   },
   {
-    "question": "What has been the major cause of your failures?",
+    "question": "Of the following, the college subject in which I received my lowest grades was:",
     "options": [
-      {"description": "Lack of ability", "weight": 0},
-      {"description": "Not trying hard enough", "weight": 0},
-      {"description": "Goals that are too difficult", "weight": 0},
-      {"description": "Bad luck", "weight": 0},
-      {"description": "Some other cause", "weight": 0}
-    ]
+      {"description": "Science", "weight": 0},
+      {"description": "Math", "weight": 0},
+      {"description": "English", "weight": 0},
+      {"description": "History/Political Science", "weight": 15},
+      {"description": "Did not attend college.", "weight": 0}
+    ],
+    "weight": 1
+  },
+  {
+    "question": "I learned about the opportunity to apply for an Air Traffic Control Specialist (ATCS) job through:",
+    "options": [
+      {"description": "A public notice or media advertisement", "weight": 5},
+      {"description": "A friend or relative", "weight": 0},
+      {"description": "College recruitment", "weight": 3},
+      {"description": "Working in some other capacity for the agency", "weight": 3},
+      {"description": "Some other way", "weight": 0}
+    ],
+    "weight": 1
+  },
+  {
+    "question": "My military service was as a:",
+    "options": [
+      {"description": "None", "weight": 0},
+      {"description": "Non-career enlisted", "weight": 0},
+      {"description": "Non-career officer", "weight": 0},
+      {"description": "Career enlisted", "weight": 0},
+      {"description": "Career officer", "weight": 0}
+    ],
+    "weight": 0
+  },
+  {
+    "question": "The aspect of being an air traffic controller that appeals to me most is that:",
+    "options": [
+      {"description": "My job is secure in the future", "weight": 0},
+      {"description": "I'll be responsible for the safety of many others", "weight": 0},
+      {"description": "I'll receive a good salary, which will grow", "weight": 0},
+      {"description": "I'll be constantly challenged to resolve situations which arise", "weight": 0},
+      {"description": "The work will always be interesting", "weight": 0}
+    ],
+    "weight": 0
+  },
+  {
+    "question": "Relative to the other high school students in my major field of study, my most demanding teacher would most likely describe my academic work as:",
+    "options": [
+      {"description": "Superior", "weight": 0},
+      {"description": "Above average", "weight": 0},
+      {"description": "Average", "weight": 0},
+      {"description": "Below average", "weight": 0},
+      {"description": "Don't know", "weight": 0}
+    ],
+    "weight": 0
+  },
+  {
+    "question": "The number of different high school sports I participated in was:",
+    "options": [
+      {"description": "4 or more", "weight": 5},
+      {"description": "3", "weight": 4},
+      {"description": "2", "weight": 3},
+      {"description": "1", "weight": 2},
+      {"description": "Didn't play sports", "weight": 1}
+    ],
+    "weight": 1
+  },
+  {
+    "question": "The high school grade I most often received was:",
+    "options": [
+      {"description": "A", "weight": 5},
+      {"description": "B", "weight": 4},
+      {"description": "C", "weight": 0},
+      {"description": "D or lower", "weight": 1},
+      {"description": "Don't remember", "weight": 1}
+    ],
+    "weight": 1
+  },
+  {
+    "question": "During my last year in college, my average number of hours of paid employment per week was:",
+    "options": [
+      {"description": "More than 20 hours", "weight": 0},
+      {"description": "10 to 20 hours", "weight": 1},
+      {"description": "Fewer than 10 hours", "weight": 5},
+      {"description": "None", "weight": 1},
+      {"description": "Didn't go to college", "weight": 3}
+    ],
+    "weight": 1
+  },
+  {
+    "question": "The college English grade I most often received was:",
+    "options": [
+      {"description": "A", "weight": 0},
+      {"description": "B", "weight": 0},
+      {"description": "C", "weight": 0},
+      {"description": "D or lower", "weight": 0},
+      {"description": "Didn't take English or didn't go to college", "weight": 0}
+    ],
+    "weight": 0
+  },
+  {
+    "question": "In the three years immediately before applying to this job, the number of different full or part-time jobs I applied for was:",
+    "options": [
+      {"description": "None", "weight": 0},
+      {"description": "1 to 2", "weight": 4},
+      {"description": "3 to 4", "weight": 3},
+      {"description": "5 to 6", "weight": 5},
+      {"description": "7 or more", "weight": 1}
+    ],
+    "weight": 1
+  },
+  {
+    "question": "The number of months I was unemployed during the three years immediately before applying to this job is:",
+    "options": [
+      {"description": "0", "weight": 6},
+      {"description": "1 to 2", "weight": 10},
+      {"description": "3 to 4", "weight": 0},
+      {"description": "5 to 6", "weight": 8},
+      {"description": "7 or more", "weight": 9}
+    ],
+    "weight": 1
+  },
+  {
+    "question": "Which of the following would your peers say describes your behavior in a group situation?",
+    "options": [
+      {"description": "You freely express your views, and sway the group considerably", "weight": 1},
+      {"description": "You freely express your views, but the group does not always share them", "weight": 3},
+      {"description": "You are reluctant to express your views, but when you do they are usually well received", "weight": 5},
+      {"description": "You usually don't express your views", "weight": 2},
+      {"description": "Don't know", "weight": 0}
+    ],
+    "weight": 1
+  },
+  {
+    "question": "Which of the following would your peers say describes your behavior in a social situation?",
+    "options": [
+      {"description": "Always at ease in a social situation", "weight": 0},
+      {"description": "Almost always at ease in a social situation", "weight": 0},
+      {"description": "Generally at ease in a social situation", "weight": 0},
+      {"description": "Occasionally at ease in a social situation", "weight": 0},
+      {"description": "Don't know", "weight": 0}
+    ],
+    "weight": 0
+  },
+  {
+    "question": "My peers would probably say that having someone criticize my performance (i.e. point out a mistake) bothers me:",
+    "options": [
+      {"description": "Much less  than most", "weight": 8},
+      {"description": "Somewhat less than most", "weight": 4},
+      {"description": "About the same than most", "weight": 8},
+      {"description": "Somewhat more than most", "weight": 0},
+      {"description": "Much more than most", "weight": 10}
+    ],
+    "weight": 1
+  },
+  {
+    "question": "The amount of formal training that I have (other than college) related directly to this job is:",
+    "options": [
+      {"description": "Less than 6 months", "weight": 1},
+      {"description": "6 months to a year", "weight": 4},
+      {"description": "1 to 2 years", "weight": 5},
+      {"description": "3 to 4 years", "weight": 2},
+      {"description": "5 or more years", "weight": 0}
+    ],
+    "weight": 1
+  },
+  {
+    "question": "Your grade point average in high school Arithmetic",
+    "options": [
+      {"description": "About A- to A+", "weight": 5},
+      {"description": "About B- to B+", "weight": 2},
+      {"description": "About C- to C+", "weight": 0},
+      {"description": "Lower than C- ", "weight": 1},
+      {"description": "Did not have the course", "weight": 3}
+    ],
+    "weight": 1
+  },
+  {
+    "question": "Your overall high school grade point average (GPA) was:",
+    "options": [
+      {"description": "About A- to A+", "weight": 0},
+      {"description": "About B- to B+", "weight": 0},
+      {"description": "About C- to C+", "weight": 0},
+      {"description": "Lower than C- ", "weight": 0},
+      {"description": "Do not remember", "weight": 0}
+    ],
+    "weight": 0
+  },
+  {
+    "question": "The number of college credit hours you've taken in Art/Music/Dance/Drama is:",
+    "options": [
+      {"description": "Did not attend college.", "weight": 0},
+      {"description": "earned 0 credit hours in this area of study", "weight": 5},
+      {"description": "1-6 credit hours", "weight": 0},
+      {"description": "7-12 credit hours", "weight": 4},
+      {"description": "13 or more credit hours", "weight": 1}
+    ],
+    "weight": 1
+  },
+  {
+    "question": "During high school (grades 9-12) I made the semester honor roll:",
+    "options": [
+      {"description": "Never", "weight": 1},
+      {"description": "Once or twice", "weight": 2},
+      {"description": "Three or four times", "weight": 3},
+      {"description": "Five or fix times", "weight": 4},
+      {"description": "Seven or eight times", "weight": 5}
+    ],
+    "weight": 1
+  },
+  {
+    "question": "My class standing in high school put me in the:",
+    "options": [
+      {"description": "Top 10%", "weight": 5},
+      {"description": "Top 33%", "weight": 4},
+      {"description": "Top 50%", "weight": 3},
+      {"description": "Top 90%", "weight": 2},
+      {"description": "Did not graduate from high school", "weight": 1}
+    ],
+    "weight": 1
+  },
+  {
+    "question": "In the three years prior to applying to this job, the number of formal suggestions I have submitted to my employer(s) was:",
+    "options": [
+      {"description": "Not employed", "weight": 10},
+      {"description": "0", "weight": 8},
+      {"description": "1", "weight": 6},
+      {"description": "2", "weight": 4},
+      {"description": "3 or more", "weight": 2}
+    ],
+    "weight": 1
+  },
+  {
+    "question": "My previous supervisor (or teachers, if not previously employed) would most likely describe the speed at which I work as:",
+    "options": [
+      {"description": "Superior", "weight": 5},
+      {"description": "Above average", "weight": 4},
+      {"description": "Average", "weight": 3},
+      {"description": "Below average", "weight": 2},
+      {"description": "Don't know", "weight": 1}
+    ],
+    "weight": 1
+  },
+  {
+    "question": "My previous supervisor (or teachers, if not previously employed) would most likely describe the amount of time I needed to complete assignments as:",
+    "options": [
+      {"description": "A great deal", "weight": 5},
+      {"description": "More than average", "weight": 4},
+      {"description": "Average", "weight": 3},
+      {"description": "Less than average", "weight": 2},
+      {"description": "Don't know", "weight": 1}
+    ],
+    "weight": 1
+  },
+  {
+    "question": "My previous supervisor (or teachers, if not previously employed) would likely describe my oral communication skills as:",
+    "options": [
+      {"description": "Superior", "weight": 5},
+      {"description": "Above average", "weight": 4},
+      {"description": "Average", "weight": 3},
+      {"description": "Below average", "weight": 2},
+      {"description": "Don't know", "weight": 1}
+    ],
+    "weight": 1
+  },
+  {
+    "question": "My peers would probably describe me as",
+    "options": [
+      {"description": "Much more aggresive than most of my peers", "weight": 1},
+      {"description": "Somewhat more aggresive than most of my peers", "weight": 2},
+      {"description": "About as aggresive as most of my peers", "weight": 3},
+      {"description": "Somewhat less aggresive than most of my peers", "weight": 4},
+      {"description": "Much less aggresive than most of my peers", "weight": 5}
+    ],
+    "weight": 1
+  },
+  {
+    "question": "The high school math grade I most often received was:",
+    "options": [
+      {"description": "A", "weight": 10},
+      {"description": "B", "weight": 8},
+      {"description": "C", "weight": 6},
+      {"description": "D or lower", "weight": 4},
+      {"description": "Don't remember or didn't take math", "weight": 2}
+    ],
+    "weight": 1
+  },
+  {
+    "question": "The amount of time I have been out of work between jobs usually has been:",
+    "options": [
+      {"description": "Never out of work", "weight": 0},
+      {"description": "Less than one month", "weight": 0},
+      {"description": "1 to 2 months", "weight": 0},
+      {"description": "3 to 4 months", "weight": 0},
+      {"description": "5 or more months", "weight": 0}
+    ],
+    "weight": 0
+  },
+  {
+    "question": "The age at which I first started to earn money (other than an allowance) was:",
+    "options": [
+      {"description": "Less than 12 years old", "weight": 5},
+      {"description": "12 to 13 years old", "weight": 4},
+      {"description": "14 to 15 years old", "weight": 3},
+      {"description": "16 to 17 years old", "weight": 2},
+      {"description": "18 years or older", "weight": 1}
+    ],
+    "weight": 1
+  },
+  {
+    "question": "My peers would probably describe me as a person who:",
+    "options": [
+      {"description": "Never takes chances", "weight": 1},
+      {"description": "Hardly ever takes chances", "weight": 2},
+      {"description": "Sometimes takes chances", "weight": 3},
+      {"description": "Often takes chances", "weight": 4},
+      {"description": "Very often takes chances", "weight": 5}
+    ],
+    "weight": 1
+  },
+  {
+    "question": "Compared to others on my last full-time job, my rate of promotion was:",
+    "options": [
+      {"description": "Much faster than most", "weight": 10},
+      {"description": "Somewhat faster than most", "weight": 8},
+      {"description": "About the same as most", "weight": 6},
+      {"description": "Somewhat slower than most", "weight": 4},
+      {"description": "Not employed full-time prior to present job", "weight": 2}
+    ],
+    "weight": 1
+  },
+  {
+    "question": "Before I applied with the FAA, the information I had about the type of work that air traffic controllers are expected to do was",
+    "options": [
+      {"description": "None", "weight": 1},
+      {"description": "Pratically no information", "weight": 2},
+      {"description": "Some Information", "weight": 3},
+      {"description": "Quite a bit", "weight": 4},
+      {"description": "Knew in considerable detail", "weight": 5}
+    ],
+    "weight": 1
+  },
+  {
+    "question": "Do you have a pilots certificate?",
+    "options": [
+      {"description": "No", "weight": 1},
+      {"description": "Yes", "weight": 2}
+    ],
+    "weight": 1
+  },
+  {
+    "question": "Did you work in an aviation-related or air traffic-related job while in the armed forces?",
+    "options": [
+      {"description": "Did not work in the armed forces", "weight": 1},
+      {"description": "Did not work in aviation-related job", "weight": 1},
+      {"description": "Worked in aviation-related job which was not related to air traffic", "weight": 2},
+      {"description": "Worked in air traffic-related job", "weight": 3}
+    ],
+    "weight": 1
+  },
+  {
+    "question": "Do you have a prior Air Traffic Control Specialist (ATCS) rating?",
+    "options": [
+      {"description": "No", "weight": 0},
+      {"description": "Yes - Center", "weight": 0},
+      {"description": "Yes - FSS/AFSS", "weight": 0},
+      {"description": "Yes - TRACON/RAPCON", "weight": 0},
+      {"description": "YES - Center, FSS/AFSS and TRACON/RAPCON", "weight": 0}
+    ],
+    "weight": 0
+  },
+  {
+    "question": "Do you have a prior Control Tower Operator (CTO) rating?",
+    "options": [
+      {"description": "No", "weight": 0},
+      {"description": "Yes - Instrument Flight Rules (IFR)", "weight": 0},
+      {"description": "Yes - Visual Flight Rules (VFR)", "weight": 0},
+      {"description": "Yes - Both Instrument and Visual Flight Rules (IFR & VFR)", "weight": 0}
+    ],
+    "weight": 0
+  },
+  {
+    "question": "Do you have prior Instrument Flight Rules (IFR) experience?",
+    "options": [
+      {"description": "No", "weight": 0},
+      {"description": "Yes - Military", "weight": 0},
+      {"description": "Yes - Civilian", "weight": 0},
+      {"description": "Yes - Both Military and Civilian", "weight": 0}
+    ],
+    "weight": 0
+  },
+  {
+    "question": "How long do you think it will take to become fully effective in your job?",
+    "options": [
+      {"description": "Much longer than most others", "weight": 0},
+      {"description": "Somewhat longer than most others", "weight": 0},
+      {"description": "About as most others", "weight": 0},
+      {"description": "A little less time than most others", "weight": 0},
+      {"description": "Much less time than most others", "weight": 0}
+    ],
+    "weight": 0
+  },
+  {
+    "question": "Do you have an Associate and/or Technical/Military/Vocational-Technical degree?",
+    "options": [
+      {"description": "Yes", "weight": 0},
+      {"description": "No", "weight": 0}
+    ],
+    "weight": 0
+  },
+  {
+    "question": "Which of the following BEST describes aviation coursework taken towards your Associate and/or Technical/Military/Vocational-Technical degree?",
+    "options": [
+      {"description": "No aviation course work", "weight": 1},
+      {"description": "Vocational oriented", "weight": 2},
+      {"description": "Baccalaureate-transfer oriented", "weight": 3},
+      {"description": "Other", "weight": 4},
+      {"description": "Not applicable", "weight": 0}
+    ],
+    "weight": 1
+  },
+  {
+    "question": "Of all the Air Traffic Control Specialists (ATCSs) in the country, at what percentile do you think you will be able to perform?",
+    "options": [
+      {"description": "In the lowest 10%", "weight": 0},
+      {"description": "In the lower half", "weight": 0},
+      {"description": "At about the 50% or average level", "weight": 0},
+      {"description": "In the upper half", "weight": 0},
+      {"description": "In the top 10%", "weight": 0}
+    ],
+    "weight": 0
+  },
+  {
+    "question": "Overall college grade point average",
+    "options": [
+      {"description": "Did not attend college.", "weight": 0},
+      {"description": "2.00 or below", "weight": 0},
+      {"description": "2.01 to 2.50", "weight": 0},
+      {"description": "2.51 to 3.00", "weight": 0},
+      {"description": "3.01 to 3.50", "weight": 0},
+      {"description": "3.51 to 4.00", "weight": 0}
+    ],
+    "weight": 0
+  },
+  {
+    "question": "In your current or previous job(s), education, or other similar experiences, how did you usually feel about assignments changing at the last minute?",
+    "options": [
+      {"description": "I did not mind it, but preferred that the assignments did not change.", "weight": 0},
+      {"description": "I did not like it, and it affected how much I liked my work.", "weight": 0},
+      {"description": "I liked it, and it made my work more challenging.", "weight": 0},
+      {"description": "I liked it, but preferred to know about changes before the last minute.", "weight": 0},
+      {"description": "I have not had an assignment change at the last minute.", "weight": 0}
+    ],
+    "weight": 0
+  },
+  {
+    "question": "Which of the following would bother you the LEAST?",
+    "options": [
+      {"description": "Having to make promises that I cannot keep", "weight": 0},
+      {"description": "Having to disappoint people who count on me", "weight": 0},
+      {"description": "Having to miss deadlines due to poor planning", "weight": 0},
+      {"description": "Having to take advantage of people who trust me", "weight": 0},
+      {"description": "Having to implement an idea that I don't agree with", "weight": 0}
+    ],
+    "weight": 0
+  },
+  {
+    "question": "At which one of the following do you excel?",
+    "options": [
+      {"description": "Setting challenging goals for myself", "weight": 0},
+      {"description": "Setting priorities for getting things done", "weight": 0},
+      {"description": "Keeping track of many details", "weight": 0},
+      {"description": "Helping others solve their problems", "weight": 0},
+      {"description": "Something other than these", "weight": 0}
+    ],
+    "weight": 0
+  },
+  {
+    "question": "When finished with my work, I:",
+    "options": [
+      {"description": "tend to not worry about minor details and efficiently move on to other activities.", "weight": 0},
+      {"description": "do a quick overview of my work and then move on to something else.", "weight": 0},
+      {"description": "ask someone with more attention to detail to review my work.", "weight": 0},
+      {"description": "check my work carefully.", "weight": 0},
+      {"description": "check and double-check my work.", "weight": 0}
+    ],
+    "weight": 0
+  },
+  {
+    "question": "How does it make you feel to do poor quality work?",
+    "options": [
+      {"description": "I feel bad about myself.", "weight": 0},
+      {"description": "I feel upset at the situation.", "weight": 0},
+      {"description": "I feel angry at whoever is responsible.", "weight": 0},
+      {"description": "I am not bothered by it.", "weight": 0},
+      {"description": "I never do poor quality work.", "weight": 0}
+    ],
+    "weight": 0
+  },
+  {
+    "question": "How have you planned your work activities at work, school, or in other similar situations?",
+    "options": [
+      {"description": "I made exact and detailed plans.", "weight": 0},
+      {"description": "I made general plans, but not exact.", "weight": 0},
+      {"description": "I usually drafted plans.", "weight": 0},
+      {"description": " I usually did not have plans because it is important to let things happen freely.", "weight": 0},
+      {"description": "I did not do any of these", "weight": 0}
+    ],
+    "weight": 0
   }
 ]
