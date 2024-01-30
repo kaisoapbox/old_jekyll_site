@@ -1,0 +1,45 @@
+[
+  {
+    "question": "How would you describe your ideal job?",
+    "options": [
+      {"description": "Ability to decide for myself what to do and how to do it", "weight": 0},
+      {"description": "Being told what to do, but not how to do it", "weight": 0},
+      {"description": "Being told what to do, and getting suggestions on how to do it", "weight": 0},
+      {"description": "Being clearly told what to do and how to do it", "weight": 0},
+      {"description": "I am not sure", "weight": 0}
+    ],
+    "weight": 0
+  },
+  {
+    "question": "In the past, what did you do when you were working on something and nothing seemed to go right?",
+    "options": [
+      {"description": "I took a break from working to relax and started again some time later.", "weight": 0},
+      {"description": "I continued working, but I was frustrated and upset.", "weight": 0},
+      {"description": "I let others know I was angry, then I began to feel better and continued working.", "weight": 0},
+      {"description": "I took the day as it came and tried to remain upbeat.", "weight": 0},
+      {"description": "I stopped what I was doing, figuring things would go better the next day.", "weight": 0}
+    ],
+    "weight": 0
+  },
+  {
+    "question": "Q15 The high school subject in which I received my lowest grades was:",
+    "options": [
+      {"description": "Science", "weight": 15},
+      {"description": "Math", "weight": 0},
+      {"description": "English", "weight": 0},
+      {"description": "History/Social Sciences", "weight": 0},
+      {"description": "Physical Education", "weight": 0}
+    ],
+    "weight": 1
+  },
+  {
+    "question": "What has been the major cause of your failures?",
+    "options": [
+      {"description": "Lack of ability", "weight": 0},
+      {"description": "Not trying hard enough", "weight": 0},
+      {"description": "Goals that are too difficult", "weight": 0},
+      {"description": "Bad luck", "weight": 0},
+      {"description": "Some other cause", "weight": 0}
+    ]
+  }
+]
