@@ -51,7 +51,8 @@ window.onload = async function () {
         index: 0,
         score: 0,
         maxScore: 0,
-        statusText: "",
+        statusText:
+          "Do you have what it takes to pass the FAA Behavioural Assessment to become an ATC? You need 114 points to pass.",
       };
     }
 
@@ -86,7 +87,7 @@ window.onload = async function () {
         return React.createElement(
           "div",
           null,
-          `Congratulations, you got ${this.state.score} out of a possible ${this.state.maxScore}. Remember, you need 114 to be able to become an ATC.`
+          `Congratulations, you got ${this.state.score} out of a possible ${this.state.maxScore}. Remember, you need 114 to become an ATC.`
         );
       }
       return React.createElement(
