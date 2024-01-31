@@ -35,7 +35,7 @@ window.onload = async function () {
     {
       type: "question",
       question: 15,
-      text: "There was a 90% failure rate.",
+      text: "There was a ~90% failure rate.",
     },
     {
       type: "text",
