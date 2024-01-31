@@ -288,7 +288,7 @@
     "options": [
       {"description": "Much less than most", "weight": 8},
       {"description": "Somewhat less than most", "weight": 4},
-      {"description": "About the same than most", "weight": 8},
+      {"description": "About the same as most", "weight": 8},
       {"description": "Somewhat more than most", "weight": 0},
       {"description": "Much more than most", "weight": 10}
     ],
