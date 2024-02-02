@@ -10,8 +10,11 @@ description: could you pass the FAA's Air Traffic Controller (ATC) biographical 
 <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
 <!-- wired elements are cute -->
 <script crossorigin type="module" src="https://unpkg.com/wired-elements?module"></script>
-
+<!-- stylesheet -->
 <link rel="stylesheet" href="/assets/css/faa_ba.css" />
+<!-- icons -->
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet">
 
 <div id="parent" class="root"></div>
 <script src="/assets/js/faa_ba.js" type="text/javascript"></script>

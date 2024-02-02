@@ -180,6 +180,11 @@ window.onload = async function () {
           "Find out whether you have what it takes to become an FAA Air Traffic Controller!"
         ),
         React.createElement(
+          "p",
+          null,
+          "If you don't know what this is about, I suggest starting with just the selected questions to get a feel for what to expect."
+        ),
+        React.createElement(
           "wired-button",
           {
             onClick: () => {
@@ -319,16 +324,80 @@ window.onload = async function () {
 
     render() {
       if (this.state.index === questions.length) {
+        const pass = this.state.score >= 114;
         return React.createElement(
           "div",
-          null,
-          `Congratulations, you got ${this.state.score} out of a possible ${this.state.maxScore}. Remember, you need 114 to become an ATC.`,
+          { id: "results-container" },
+          React.createElement(
+            "h3",
+            null,
+            "APPLICATION STATUS FOR ANNOUNCEMENT FAA-KAI-24-TRACEWG-69420"
+          ),
+          React.createElement(
+            "p",
+            { id: "center" },
+            `Score: ${this.state.score}/${this.state.maxScore}`
+          ),
+          React.createElement(
+            "wired-icon-button",
+            { id: "center", class: pass ? "pass" : "fail" },
+            React.createElement(
+              "span",
+              { class: "material-icons" },
+              pass ? "done" : "close"
+            )
+          ),
+          React.createElement(
+            "p",
+            null,
+            `Thank you for submitting your application for announcement FAA-KAI-24-TRACEWG-69420. Based upon your responses to the Biographical Assessment, we have determined that you ${
+              pass ? "ARE" : "are NOT"
+            } eligible for this position as a part of the current vacancy announcement.`
+          ),
+          React.createElement(
+            "p",
+            null,
+            'The biographical assessment measures ATCS job applicant characteristics that have been "shown empirically" to "predict success" as an air traffic controller in the FAA. These characteristics include factors such as prior general and ATC-specific work experience, education and training, work habits, academic and other achievements, and life experiences among other factors. This biographical assessment was "independently validated" by "outside experts".'
+          ),
+          React.createElement(
+            "p",
+            null,
+            "Many candidates applied for this totally legitimate position and unfortunately we have fewer job openings (0) than there were candidates. We encourage you to apply to future vacancy announcements. Thank you again for your interest in the Federal Aviation Administration."
+          ),
+          React.createElement(
+            "p",
+            null,
+            "If you would like further information, please make your request in writing to kaisoapbox [at] gmail.com with the title 'FAA Biographical Assessment'."
+          ),
+          React.createElement(
+            "wired-button",
+            {
+              id: "center",
+              onClick: () => {
+                window.open(
+                  "https://twitter.com/intent/tweet?text=" +
+                    encodeURIComponent(
+                      `I ${
+                        pass ? "PASSED" : "FAILED"
+                      } the 2014 FAA Biographical Assessment with a score of ${
+                        this.state.score
+                      }. Do you have what it takes to become an ATC${
+                        pass ? " like" : ", unlike"
+                      } me?\n`
+                    ) +
+                    "&url=https://kaisoapbox.github.io/faa_biographical_assessment"
+                );
+              },
+            },
+            "Share your score on Twitter (X)"
+          ),
           React.createElement(
             "wired-button",
             {
               onClick: () => {
                 root.render(React.createElement(Menu));
               },
+              id: "center",
             },
             "Return to Menu"
           )
